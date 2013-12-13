@@ -1,0 +1,8 @@
+f668dc698dd39e25d6b518bbe378a059 80ea79e89adf3c43c19d07ba177a3019 ffffffffffffffffffffffffffffffff 102 /Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app
+000000005279c5c400000000000003ad 0101656d0ab64e39a18204dce38ed115 ffffffffffffffffffffffffffffffff 941 /Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app/Contents/Resources/vertex-shader.txt
+000000005279ebe200000000000001b5 c49591d33eef21ae2ffbef0b6b3a37a8 ffffffffffffffffffffffffffffffff 437 /Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app/Contents/Resources/fragment-shader.txt
+e8019498eb585d67a5482ad53982b44f dbfdbc4f52d282f3fd84d9b9524ef0b3 ffffffffffffffffffffffffffffffff 798412 /Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app/Contents/MacOS/spinnycube
+00000000516ede820000000000000984 5f0f191c06f7c09e67f68b834be748b5 ffffffffffffffffffffffffffffffff 195224 /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Shader.o
+0000000051ec86ba00000000000e13ad e367c296c0fa62aba5a46ba5e94b5fac ffffffffffffffffffffffffffffffff 1141480 /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/glew.o
+00000000527998f70000000000001f54 f12c5fbc9fcfa06d1b2beebfdf605c93 ffffffffffffffffffffffffffffffff 135952 /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Program.o
+000000005279e3360000000000002752 a54510aeb12b5b1c7c31244c4452eb99 ffffffffffffffffffffffffffffffff 189932 /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/main.o

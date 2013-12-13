@@ -1,0 +1,437 @@
+TinstancedAttribs
+v6
+r1
+cCheck dependencies
+cCompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/main.o /Users/mc309/test/glModern/instancedAttribs/source/main.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Program.o /Users/mc309/test/glModern/instancedAttribs/source/Program.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/glew.o /Users/mc309/test/glModern/glew-1.10.0/src/glew.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Shader.o /Users/mc309/test/glModern/instancedAttribs/source/Shader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app/Contents/MacOS/instancedAttribs normal x86_64
+cCpResource source/f1.txt build/Debug/instancedAttribs.app/Contents/Resources/f1.txt
+cCpResource source/v1.txt build/Debug/instancedAttribs.app/Contents/Resources/v1.txt
+cTouch /Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005268796F000000000000044C
+t1382578543
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005268796F00000000000001DB
+t1382578543
+s475
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000005267F2FC00000000000066C0
+t1382544124
+s26304
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000005267F3080000000000141E90
+t1382544136
+s1318544
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000005267F30D000000000002C960
+t1382544141
+s182624
+
+N/Users/mc309/test/glModern/glew-1.10.0/src/glew.c
+c0000000051EC86BA00000000000E163A
+t1374455482
+s923194
+
+N/Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app
+t1384239353
+s102
+
+N/Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app/Contents/MacOS/instancedAttribs
+t1384239355
+s798876
+
+N/Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app/Contents/Resources/f1.txt
+t1384239355
+s284
+
+N/Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app/Contents/Resources/v1.txt
+t1384239355
+s603
+
+N/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Program.o
+t1384239353
+s136008
+
+N/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Shader.o
+t1384239353
+s195240
+
+N/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/glew.o
+t1384239353
+s1141488
+
+N/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/instancedAttribs.LinkFileList
+c000000005281D0F90000000000000211
+t1384239353
+s529
+
+N/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/main.o
+t1384239354
+s191080
+
+N/Users/mc309/test/glModern/instancedAttribs/source/Program.cpp
+c00000000527998F70000000000001AC3
+t1383700727
+s6851
+
+N/Users/mc309/test/glModern/instancedAttribs/source/Shader.cpp
+c00000000516EDE820000000000000C13
+t1366220418
+s3091
+
+N/Users/mc309/test/glModern/instancedAttribs/source/f1.txt
+c00000000527A0647000000000000011C
+t1383728711
+s284
+
+N/Users/mc309/test/glModern/instancedAttribs/source/main.mm
+c000000005280961D0000000000001FB8
+t1384158749
+s8120
+
+N/Users/mc309/test/glModern/instancedAttribs/source/v1.txt
+c00000000527AF5DC000000000000025B
+t1383790044
+s603
+
+N/Users/mc309/test/glModern/thirdparty/glfw/libglfw.a
+c00000000516EDE820000000000048620
+t1366220418
+s296480
+
+CBuild AST from /Users/mc309/test/glModern/glew-1.10.0/src/glew.c
+r0
+
+CBuild AST from /Users/mc309/test/glModern/instancedAttribs/source/Program.cpp
+r0
+
+CBuild AST from /Users/mc309/test/glModern/instancedAttribs/source/Shader.cpp
+r0
+
+CBuild AST from /Users/mc309/test/glModern/instancedAttribs/source/main.mm
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies118f04790832b841^ecbe0b790832b841^---0#1#1#--18"Check dependencies36"BA38703E-7221-4CB1-A4E0-86212186E9C8-
+
+CCompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Program.o /Users/mc309/test/glModern/instancedAttribs/source/Program.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s405932153.050562
+e405932153.884450
+r1
+xCompileC
+xbuild/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Program.o
+x/Users/mc309/test/glModern/instancedAttribs/source/Program.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mc309/test/glModern/instancedAttribs/source/Program.cpp
+d/Users/mc309/test/glModern/instancedAttribs/source/Program.h
+d/Users/mc309/test/glModern/instancedAttribs/source/Shader.h
+d/Users/mc309/test/glModern/glew-1.10.0/include/GL/glew.h
+d/Users/mc309/test/glModern/thirdparty/glm/glm/glm.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_fixes.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/setup.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_detail.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_half.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_half.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_float.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_int.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_gentype.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_size.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec1.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_swizzle.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_swizzle_func.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec1.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_trigonometric.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_trigonometric.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_vectorize.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_exponential.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_exponential.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_common.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_common.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_packing.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_packing.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_geometric.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_geometric.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_matrix.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_matrix.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_vector_relational.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_vector_relational.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_integer.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_integer.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_noise.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_noise.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/gtc/type_ptr.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/gtc/half_float.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/gtc/half_float.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/gtc/quaternion.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/gtc/quaternion.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/gtc/type_ptr.inl
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/mc309/test/glModern/instancedAttribs/source/Program.cpp179"CompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Program.o source/Program.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler6a4b0d790832b841^b972e2790832b841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/mc309/test/glModern/instancedAttribs/source/Program.cpp0000000000000000^3015"CompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Program.o source/Program.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mc309/test/glModern/instancedAttribs    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-generated-files.hmap -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-own-target-headers.hmap -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-all-target-headers.hmap -iquote /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-project-headers.hmap -I/Users/mc309/test/glModern/instancedAttribs/build/Debug/include -I/Users/mc309/test/glModern/instancedAttribs/../thirdparty/glfw/include -I/Users/mc309/test/glModern/instancedAttribs/../thirdparty/glm -I/Users/mc309/test/glModern/glew-1.10.0/include -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/DerivedSources/x86_64 -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/DerivedSources -Wall -F/Users/mc309/test/glModern/instancedAttribs/build/Debug -MMD -MT dependencies -MF /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Program.d --serialize-diagnostics /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Program.dia -c /Users/mc309/test/glModern/instancedAttribs/source/Program.cpp -o /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Program.o36"EE9D88FC-DE94-453B-AC96-72423AF3046D-
+bB3FCB08E-63C9-41CC-A611-18B27C68EFDD
+
+CCompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Shader.o /Users/mc309/test/glModern/instancedAttribs/source/Shader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s405932153.051071
+e405932153.884453
+r1
+xCompileC
+xbuild/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Shader.o
+x/Users/mc309/test/glModern/instancedAttribs/source/Shader.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mc309/test/glModern/instancedAttribs/source/Shader.cpp
+d/Users/mc309/test/glModern/instancedAttribs/source/Shader.h
+d/Users/mc309/test/glModern/glew-1.10.0/include/GL/glew.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/mc309/test/glModern/instancedAttribs/source/Shader.cpp177"CompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Shader.o source/Shader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerbe4b0d790832b841^9e7ce2790832b841^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/mc309/test/glModern/instancedAttribs/source/Shader.cpp0000000000000000^3009"CompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Shader.o source/Shader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mc309/test/glModern/instancedAttribs    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-generated-files.hmap -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-own-target-headers.hmap -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-all-target-headers.hmap -iquote /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-project-headers.hmap -I/Users/mc309/test/glModern/instancedAttribs/build/Debug/include -I/Users/mc309/test/glModern/instancedAttribs/../thirdparty/glfw/include -I/Users/mc309/test/glModern/instancedAttribs/../thirdparty/glm -I/Users/mc309/test/glModern/glew-1.10.0/include -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/DerivedSources/x86_64 -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/DerivedSources -Wall -F/Users/mc309/test/glModern/instancedAttribs/build/Debug -MMD -MT dependencies -MF /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Shader.d --serialize-diagnostics /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Shader.dia -c /Users/mc309/test/glModern/instancedAttribs/source/Shader.cpp -o /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Shader.o36"4D26A709-6F7B-498E-91CD-057F43BE5E5F-
+bB3FCB08E-63C9-41CC-A611-18B27C68EFDD
+
+CCompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/glew.o /Users/mc309/test/glModern/glew-1.10.0/src/glew.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s405932153.050830
+e405932153.884449
+r1
+xCompileC
+xbuild/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/glew.o
+x/Users/mc309/test/glModern/glew-1.10.0/src/glew.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mc309/test/glModern/glew-1.10.0/src/glew.c
+d/Users/mc309/test/glModern/glew-1.10.0/include/GL/glew.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/mc309/test/glModern/glew-1.10.0/src/glew.c205"CompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/glew.o /Users/mc309/test/glModern/glew-1.10.0/src/glew.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilerc34a0d790832b841^c364e2790832b841^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/mc309/test/glModern/glew-1.10.0/src/glew.c0000000000000000^2886"CompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/glew.o /Users/mc309/test/glModern/glew-1.10.0/src/glew.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mc309/test/glModern/instancedAttribs    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c11 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-generated-files.hmap -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-own-target-headers.hmap -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-all-target-headers.hmap -iquote /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-project-headers.hmap -I/Users/mc309/test/glModern/instancedAttribs/build/Debug/include -I/Users/mc309/test/glModern/instancedAttribs/../thirdparty/glfw/include -I/Users/mc309/test/glModern/instancedAttribs/../thirdparty/glm -I/Users/mc309/test/glModern/glew-1.10.0/include -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/DerivedSources/x86_64 -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/DerivedSources -Wall -F/Users/mc309/test/glModern/instancedAttribs/build/Debug -MMD -MT dependencies -MF /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/glew.d --serialize-diagnostics /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/glew.dia -c /Users/mc309/test/glModern/glew-1.10.0/src/glew.c -o /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/glew.o36"866618BC-DA16-4C9E-9613-D94AF3F4A5E4-
+bB3FCB08E-63C9-41CC-A611-18B27C68EFDD
+
+CCompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/main.o /Users/mc309/test/glModern/instancedAttribs/source/main.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s405932153.050283
+e405932154.620459
+r1
+xCompileC
+xbuild/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/main.o
+x/Users/mc309/test/glModern/instancedAttribs/source/main.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mc309/test/glModern/instancedAttribs/source/main.mm
+d/Users/mc309/test/glModern/glew-1.10.0/include/GL/glew.h
+d/Users/mc309/test/glModern/thirdparty/glfw/include/GL/glfw.h
+d/Users/mc309/test/glModern/thirdparty/glm/glm/glm.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_fixes.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/setup.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_detail.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_half.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_half.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_float.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_int.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_gentype.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_size.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec1.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_swizzle.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_swizzle_func.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec1.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_trigonometric.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_trigonometric.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_vectorize.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_exponential.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_exponential.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_common.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_common.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_packing.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_packing.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_geometric.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_geometric.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_matrix.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_matrix.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_vector_relational.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_vector_relational.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_integer.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_integer.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_noise.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_noise.inl
+d/Users/mc309/test/glModern/instancedAttribs/source/vmath.h
+d/Users/mc309/test/glModern/instancedAttribs/source/Program.h
+d/Users/mc309/test/glModern/instancedAttribs/source/Shader.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/mc309/test/glModern/instancedAttribs/source/main.mm182"CompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/main.o source/main.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler164b0d790832b841^f1d99e7a0832b841^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/mc309/test/glModern/instancedAttribs/source/main.mm0000000000000000^3208"CompileC build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/main.o source/main.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mc309/test/glModern/instancedAttribs    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-generated-files.hmap -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-own-target-headers.hmap -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-all-target-headers.hmap -iquote /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/instancedAttribs-project-headers.hmap -I/Users/mc309/test/glModern/instancedAttribs/build/Debug/include -I/Users/mc309/test/glModern/instancedAttribs/../thirdparty/glfw/include -I/Users/mc309/test/glModern/instancedAttribs/../thirdparty/glm -I/Users/mc309/test/glModern/glew-1.10.0/include -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/DerivedSources/x86_64 -I/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/DerivedSources -Wall -F/Users/mc309/test/glModern/instancedAttribs/build/Debug -MMD -MT dependencies -MF /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/main.dia -c /Users/mc309/test/glModern/instancedAttribs/source/main.mm -o /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/main.o36"2186895E-CED0-4BE2-A0BD-611EC2F21DB2-
+bB3FCB08E-63C9-41CC-A611-18B27C68EFDD
+
+CCpResource source/f1.txt build/Debug/instancedAttribs.app/Contents/Resources/f1.txt
+s405932155.266049
+e405932155.293828
+r1
+xCpResource
+xsource/f1.txt
+xbuild/Debug/instancedAttribs.app/Contents/Resources/f1.txt
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug/instancedAttribs.app/Contents/Resources/f1.txt83"CpResource source/f1.txt build/Debug/instancedAttribs.app/Contents/Resources/f1.txtfe2a447b0832b841^9f394b7b0832b841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app/Contents/Resources/f1.txt0034943eddffdf42^401"CpResource source/f1.txt build/Debug/instancedAttribs.app/Contents/Resources/f1.txt    cd /Users/mc309/test/glModern/instancedAttribs    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mc309/test/glModern/instancedAttribs/source/f1.txt /Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app/Contents/Resources36"8D96FBC9-A8D2-4CF1-A784-6197D35CE701-
+bB3FCB08E-63C9-41CC-A611-18B27C68EFDD
+
+CCpResource source/v1.txt build/Debug/instancedAttribs.app/Contents/Resources/v1.txt
+s405932155.266164
+e405932155.292998
+r1
+xCpResource
+xsource/v1.txt
+xbuild/Debug/instancedAttribs.app/Contents/Resources/v1.txt
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug/instancedAttribs.app/Contents/Resources/v1.txt83"CpResource source/v1.txt build/Debug/instancedAttribs.app/Contents/Resources/v1.txt6f2c447b0832b841^3a034b7b0832b841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app/Contents/Resources/v1.txt0034943eddffdf42^401"CpResource source/v1.txt build/Debug/instancedAttribs.app/Contents/Resources/v1.txt    cd /Users/mc309/test/glModern/instancedAttribs    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mc309/test/glModern/instancedAttribs/source/v1.txt /Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app/Contents/Resources36"B5DC453C-E3C1-4813-BD99-EF3E53793105-
+bB3FCB08E-63C9-41CC-A611-18B27C68EFDD
+
+CLd /Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app/Contents/MacOS/instancedAttribs normal x86_64
+s405932154.621360
+e405932155.265258
+r1
+xLd
+x/Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app/Contents/MacOS/instancedAttribs
+xnormal
+xx86_64
+d/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/instancedAttribs.LinkFileList
+d/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/main.o
+d/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Program.o
+d/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/glew.o
+d/Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/Shader.o
+d/Users/mc309/test/glModern/thirdparty/glfw/libglfw.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Link /Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app/Contents/MacOS/instancedAttribs81"Ld build/Debug/instancedAttribs.app/Contents/MacOS/instancedAttribs normal x86_64cd1f9f7a0832b841^abe8437b0832b841^---0#0#1#--1288"Ld build/Debug/instancedAttribs.app/Contents/MacOS/instancedAttribs normal x86_64    cd /Users/mc309/test/glModern/instancedAttribs    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/mc309/test/glModern/instancedAttribs/build/Debug -L/Users/mc309/test/glModern/instancedAttribs/../thirdparty/glfw -L/Users/mc309/test/glModern/glew-1.10.0/lib -L/Users/mc309/test/glModern/glew-1.10.0/lib -L/Users/mc309/test/glModern/glew-1.10.0/lib -F/Users/mc309/test/glModern/instancedAttribs/build/Debug -filelist /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/instancedAttribs.LinkFileList -mmacosx-version-min=10.9 -fobjc-link-runtime -lglfw -framework Cocoa -framework IOKit -framework OpenGL -Xlinker -dependency_info -Xlinker /Users/mc309/test/glModern/instancedAttribs/build/instancedAttribs.build/Debug/instancedAttribs.build/Objects-normal/x86_64/instancedAttribs_dependency_info.dat -o /Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app/Contents/MacOS/instancedAttribs36"C477649F-0A8E-4074-8504-358BF5A89A01-
+bB3FCB08E-63C9-41CC-A611-18B27C68EFDD
+
+CTouch /Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app
+s405932155.294245
+e405932155.328973
+r1
+xTouch
+x/Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Touch /Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app38"Touch build/Debug/instancedAttribs.appe25c4b7b0832b841^ce39547b0832b841^---0#0#1#--189"Touch build/Debug/instancedAttribs.app    cd /Users/mc309/test/glModern/instancedAttribs    /usr/bin/touch -c /Users/mc309/test/glModern/instancedAttribs/build/Debug/instancedAttribs.app36"0DEE4429-ED0B-4C34-A3F1-3BE99E5904C8-
+bB3FCB08E-63C9-41CC-A611-18B27C68EFDD
+

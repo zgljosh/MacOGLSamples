@@ -1,0 +1,10 @@
+0e3090215dc3227350f743ad038fb0dc ad9735dcbc928f6e1df48741f23e7e0a ffffffffffffffffffffffffffffffff 102 /Users/mc309/test/glModern/grass1/build/Debug/grass1.app
+0000000052a7df40000000000000174f b3f4b84b85077cc8d89bf085450b0062 ffffffffffffffffffffffffffffffff 5967 /Users/mc309/test/glModern/grass1/build/Debug/grass1.app/Contents/Resources/vertex-shader.txt
+00000000529d5b0100000000000000ee 75ab759a09315d5b8b4ac853159acda6 ffffffffffffffffffffffffffffffff 238 /Users/mc309/test/glModern/grass1/build/Debug/grass1.app/Contents/Resources/frag-shader-color-vary.txt
+00000000528e37d900000000003e1942 c86f5df08341b07803267b7b532073fb ffffffffffffffffffffffffffffffff 779108 /Users/mc309/test/glModern/grass1/build/Debug/grass1.app/Contents/MacOS/grass1
+000000000082583800000000000e687b 9ffeaef8f7c69a3b669a27682e454817 ffffffffffffffffffffffffffffffff 195192 /Users/mc309/test/glModern/grass1/build/grass1.build/Debug/grass1.build/Objects-normal/x86_64/Shader.o
+0000000051ec86ba00000000000e60cd 8c9d024da666cdcdcda9fb877166b2d8 ffffffffffffffffffffffffffffffff 1141480 /Users/mc309/test/glModern/grass1/build/grass1.build/Debug/grass1.build/Objects-normal/x86_64/glew.o
+0000000051ec86ba00000000000e6f46 ad3680836135f605e6127933ca91e57d ffffffffffffffffffffffffffffffff 66408 /Users/mc309/test/glModern/grass1/build/grass1.build/Debug/grass1.build/Objects-normal/x86_64/Program.o
+000000000395072a00000000000e637d 9366e96233357ba657239cad9eca7078 ffffffffffffffffffffffffffffffff 13576 /Users/mc309/test/glModern/grass1/build/grass1.build/Debug/grass1.build/Objects-normal/x86_64/sb6ktx.o
+0000000003ae4cb700000000000e2ca2 59a45ca117002d7eef9fa2e43f49bf68 ffffffffffffffffffffffffffffffff 199644 /Users/mc309/test/glModern/grass1/build/grass1.build/Debug/grass1.build/Objects-normal/x86_64/main.o
+000000005275fac60000000000000088 2dc688f7980e68a2b9e4f589e7d83c60 ffffffffffffffffffffffffffffffff 136 /Users/mc309/test/glModern/grass1/build/Debug/grass1.app/Contents/Resources/fragment-shader.txt

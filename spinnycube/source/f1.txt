@@ -1,0 +1,13 @@
+#version 410 core
+
+out vec4 finalColor;
+
+in VS_OUT                             
+{                                     
+    vec4 color;                       
+} fs_in;
+
+void main() {
+    //set every drawn pixel to white
+    finalColor = fs_in.color;       //vec4(1.0, 1.0, 0.0, 1.0);
+}

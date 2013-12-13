@@ -1,0 +1,9 @@
+2e178a754e140d957ad59c08e3908d67 732c8449c29b99f8570fd85ad6770714 ffffffffffffffffffffffffffffffff 102 /Users/mc309/test/glModern/grass_ubo/build/Debug/grass_ubo.app
+0000000052a7df40000000000000174f aebe0d15b9def5fd5026ef3ebd103155 ffffffffffffffffffffffffffffffff 5967 /Users/mc309/test/glModern/grass_ubo/build/Debug/grass_ubo.app/Contents/Resources/vertex-shader.txt
+00000000529d5b0100000000000000ee 601480dc79ee40532fedb41e6926a7ae ffffffffffffffffffffffffffffffff 238 /Users/mc309/test/glModern/grass_ubo/build/Debug/grass_ubo.app/Contents/Resources/frag-shader-color-vary.txt
+e47a39085643da4b03d8c53393b9a904 04c73eb4d85de63106c6021ba41fa539 ffffffffffffffffffffffffffffffff 779164 /Users/mc309/test/glModern/grass_ubo/build/Debug/grass_ubo.app/Contents/MacOS/grass_ubo
+00000000516ede820000000000000984 02d0364a2810efb5a9c509d63cf47750 ffffffffffffffffffffffffffffffff 195216 /Users/mc309/test/glModern/grass_ubo/build/grass_ubo.build/Debug/grass_ubo.build/Objects-normal/x86_64/Shader.o
+0000000051ec86ba00000000000e13ad 220e30971f1ccfb7cabf377c135dad0c ffffffffffffffffffffffffffffffff 1141480 /Users/mc309/test/glModern/grass_ubo/build/grass_ubo.build/Debug/grass_ubo.build/Objects-normal/x86_64/glew.o
+00000000516ede820000000000000e94 44444eb98d38418c38feb4fccc1e78cd ffffffffffffffffffffffffffffffff 66416 /Users/mc309/test/glModern/grass_ubo/build/grass_ubo.build/Debug/grass_ubo.build/Objects-normal/x86_64/Program.o
+00000000529c2f97000000000000229f 38c244baf12df748ef095f52c7341a58 ffffffffffffffffffffffffffffffff 13584 /Users/mc309/test/glModern/grass_ubo/build/grass_ubo.build/Debug/grass_ubo.build/Objects-normal/x86_64/sb6ktx.o
+0000000052a7df4000000000000026d8 b82235d64fa247b0b7551037b72634a0 ffffffffffffffffffffffffffffffff 199652 /Users/mc309/test/glModern/grass_ubo/build/grass_ubo.build/Debug/grass_ubo.build/Objects-normal/x86_64/main.o

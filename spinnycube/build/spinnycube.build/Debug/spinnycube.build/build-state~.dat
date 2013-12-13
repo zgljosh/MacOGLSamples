@@ -1,0 +1,437 @@
+Tspinnycube
+v6
+r1
+cCheck dependencies
+cCompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/main.o /Users/mc309/test/glModern/spinnycube/source/main.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Program.o /Users/mc309/test/glModern/spinnycube/source/Program.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/glew.o /Users/mc309/test/glModern/glew-1.10.0/src/glew.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Shader.o /Users/mc309/test/glModern/spinnycube/source/Shader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app/Contents/MacOS/spinnycube normal x86_64
+cCpResource source/fragment-shader.txt build/Debug/spinnycube.app/Contents/Resources/fragment-shader.txt
+cCpResource source/vertex-shader.txt build/Debug/spinnycube.app/Contents/Resources/vertex-shader.txt
+cTouch /Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005268796F000000000000044C
+t1382578543
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005268796F00000000000001DB
+t1382578543
+s475
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000005267F2FC00000000000066C0
+t1382544124
+s26304
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000005267F3080000000000141E90
+t1382544136
+s1318544
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000005267F30D000000000002C960
+t1382544141
+s182624
+
+N/Users/mc309/test/glModern/glew-1.10.0/src/glew.c
+c0000000051EC86BA00000000000E163A
+t1374455482
+s923194
+
+N/Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app
+t1383722046
+s102
+
+N/Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app/Contents/MacOS/spinnycube
+t1383722047
+s798412
+
+N/Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app/Contents/Resources/fragment-shader.txt
+t1383722047
+s437
+
+N/Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app/Contents/Resources/vertex-shader.txt
+t1383722047
+s941
+
+N/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Program.o
+t1383722046
+s135952
+
+N/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Shader.o
+t1383722046
+s195224
+
+N/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/glew.o
+t1383722046
+s1141480
+
+N/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/main.o
+t1383722047
+s189932
+
+N/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/spinnycube.LinkFileList
+c000000005279EC3E00000000000001C9
+t1383722046
+s457
+
+N/Users/mc309/test/glModern/spinnycube/source/Program.cpp
+c00000000527998F70000000000001AC3
+t1383700727
+s6851
+
+N/Users/mc309/test/glModern/spinnycube/source/Shader.cpp
+c00000000516EDE820000000000000C13
+t1366220418
+s3091
+
+N/Users/mc309/test/glModern/spinnycube/source/fragment-shader.txt
+c000000005279EBE200000000000001B5
+t1383721954
+s437
+
+N/Users/mc309/test/glModern/spinnycube/source/main.mm
+c000000005279E33600000000000022C5
+t1383719734
+s8901
+
+N/Users/mc309/test/glModern/spinnycube/source/vertex-shader.txt
+c000000005279C5C400000000000003AD
+t1383712196
+s941
+
+N/Users/mc309/test/glModern/thirdparty/glfw/libglfw.a
+c00000000516EDE820000000000048620
+t1366220418
+s296480
+
+CBuild AST from /Users/mc309/test/glModern/glew-1.10.0/src/glew.c
+r0
+
+CBuild AST from /Users/mc309/test/glModern/spinnycube/source/Program.cpp
+r0
+
+CBuild AST from /Users/mc309/test/glModern/spinnycube/source/Shader.cpp
+r0
+
+CBuild AST from /Users/mc309/test/glModern/spinnycube/source/main.mm
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb3960abe232ab841^4e9b11be232ab841^---0#1#1#--18"Check dependencies36"96A04447-CEC4-4E41-AB83-CFB4A2D70471-
+
+CCompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Program.o /Users/mc309/test/glModern/spinnycube/source/Program.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s405414846.070153
+e405414846.788763
+r1
+xCompileC
+xbuild/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Program.o
+x/Users/mc309/test/glModern/spinnycube/source/Program.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mc309/test/glModern/spinnycube/source/Program.cpp
+d/Users/mc309/test/glModern/spinnycube/source/Program.h
+d/Users/mc309/test/glModern/spinnycube/source/Shader.h
+d/Users/mc309/test/glModern/glew-1.10.0/include/GL/glew.h
+d/Users/mc309/test/glModern/thirdparty/glm/glm/glm.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_fixes.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/setup.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_detail.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_half.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_half.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_float.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_int.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_gentype.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_size.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec1.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_swizzle.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_swizzle_func.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec1.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_trigonometric.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_trigonometric.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_vectorize.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_exponential.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_exponential.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_common.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_common.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_packing.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_packing.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_geometric.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_geometric.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_matrix.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_matrix.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_vector_relational.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_vector_relational.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_integer.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_integer.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_noise.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_noise.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/gtc/type_ptr.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/gtc/half_float.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/gtc/half_float.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/gtc/quaternion.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/gtc/quaternion.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/gtc/type_ptr.inl
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/mc309/test/glModern/spinnycube/source/Program.cpp167"CompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Program.o source/Program.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb51612be232ab841^18edc9be232ab841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/mc309/test/glModern/spinnycube/source/Program.cpp0000000000000000^2781"CompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Program.o source/Program.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mc309/test/glModern/spinnycube    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-generated-files.hmap -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-own-target-headers.hmap -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-all-target-headers.hmap -iquote /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-project-headers.hmap -I/Users/mc309/test/glModern/spinnycube/build/Debug/include -I/Users/mc309/test/glModern/spinnycube/../thirdparty/glfw/include -I/Users/mc309/test/glModern/spinnycube/../thirdparty/glm -I/Users/mc309/test/glModern/glew-1.10.0/include -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/DerivedSources/x86_64 -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/DerivedSources -Wall -F/Users/mc309/test/glModern/spinnycube/build/Debug -MMD -MT dependencies -MF /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Program.d --serialize-diagnostics /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Program.dia -c /Users/mc309/test/glModern/spinnycube/source/Program.cpp -o /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Program.o36"42BA2E45-2080-44C0-BBF2-CBD41ED5A845-
+b242C8207-100F-4DAF-A1A6-9091FB48C95B
+
+CCompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Shader.o /Users/mc309/test/glModern/spinnycube/source/Shader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s405414846.071571
+e405414846.822136
+r1
+xCompileC
+xbuild/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Shader.o
+x/Users/mc309/test/glModern/spinnycube/source/Shader.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mc309/test/glModern/spinnycube/source/Shader.cpp
+d/Users/mc309/test/glModern/spinnycube/source/Shader.h
+d/Users/mc309/test/glModern/glew-1.10.0/include/GL/glew.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/mc309/test/glModern/spinnycube/source/Shader.cpp165"CompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Shader.o source/Shader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler846312be232ab841^8979d2be232ab841^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/mc309/test/glModern/spinnycube/source/Shader.cpp0000000000000000^2775"CompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Shader.o source/Shader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mc309/test/glModern/spinnycube    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-generated-files.hmap -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-own-target-headers.hmap -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-all-target-headers.hmap -iquote /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-project-headers.hmap -I/Users/mc309/test/glModern/spinnycube/build/Debug/include -I/Users/mc309/test/glModern/spinnycube/../thirdparty/glfw/include -I/Users/mc309/test/glModern/spinnycube/../thirdparty/glm -I/Users/mc309/test/glModern/glew-1.10.0/include -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/DerivedSources/x86_64 -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/DerivedSources -Wall -F/Users/mc309/test/glModern/spinnycube/build/Debug -MMD -MT dependencies -MF /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Shader.d --serialize-diagnostics /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Shader.dia -c /Users/mc309/test/glModern/spinnycube/source/Shader.cpp -o /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Shader.o36"F6F9935B-9DAC-473F-BC35-23DEE1245EAC-
+b242C8207-100F-4DAF-A1A6-9091FB48C95B
+
+CCompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/glew.o /Users/mc309/test/glModern/glew-1.10.0/src/glew.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s405414846.071114
+e405414846.814125
+r1
+xCompileC
+xbuild/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/glew.o
+x/Users/mc309/test/glModern/glew-1.10.0/src/glew.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mc309/test/glModern/glew-1.10.0/src/glew.c
+d/Users/mc309/test/glModern/glew-1.10.0/include/GL/glew.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/mc309/test/glModern/glew-1.10.0/src/glew.c193"CompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/glew.o /Users/mc309/test/glModern/glew-1.10.0/src/glew.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler3d4512be232ab841^a96cd0be232ab841^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/mc309/test/glModern/glew-1.10.0/src/glew.c0000000000000000^2658"CompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/glew.o /Users/mc309/test/glModern/glew-1.10.0/src/glew.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mc309/test/glModern/spinnycube    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c11 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-generated-files.hmap -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-own-target-headers.hmap -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-all-target-headers.hmap -iquote /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-project-headers.hmap -I/Users/mc309/test/glModern/spinnycube/build/Debug/include -I/Users/mc309/test/glModern/spinnycube/../thirdparty/glfw/include -I/Users/mc309/test/glModern/spinnycube/../thirdparty/glm -I/Users/mc309/test/glModern/glew-1.10.0/include -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/DerivedSources/x86_64 -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/DerivedSources -Wall -F/Users/mc309/test/glModern/spinnycube/build/Debug -MMD -MT dependencies -MF /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/glew.d --serialize-diagnostics /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/glew.dia -c /Users/mc309/test/glModern/glew-1.10.0/src/glew.c -o /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/glew.o36"7A7D2E8F-BD75-4EED-B391-075B796CFACB-
+b242C8207-100F-4DAF-A1A6-9091FB48C95B
+
+CCompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/main.o /Users/mc309/test/glModern/spinnycube/source/main.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s405414846.069860
+e405414847.332873
+r1
+xCompileC
+xbuild/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/main.o
+x/Users/mc309/test/glModern/spinnycube/source/main.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mc309/test/glModern/spinnycube/source/main.mm
+d/Users/mc309/test/glModern/glew-1.10.0/include/GL/glew.h
+d/Users/mc309/test/glModern/thirdparty/glfw/include/GL/glfw.h
+d/Users/mc309/test/glModern/spinnycube/source/vmath.h
+d/Users/mc309/test/glModern/spinnycube/source/Program.h
+d/Users/mc309/test/glModern/spinnycube/source/Shader.h
+d/Users/mc309/test/glModern/thirdparty/glm/glm/glm.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_fixes.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/setup.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_detail.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_half.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_half.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_float.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_int.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_gentype.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_size.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec1.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_swizzle.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_swizzle_func.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec1.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_vec4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat2x4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat3x4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x2.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x2.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x3.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x3.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x4.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/type_mat4x4.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_trigonometric.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_trigonometric.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/_vectorize.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_exponential.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_exponential.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_common.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_common.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_packing.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_packing.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_geometric.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_geometric.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_matrix.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_matrix.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_vector_relational.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_vector_relational.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_integer.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_integer.inl
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_noise.hpp
+d/Users/mc309/test/glModern/thirdparty/glm/glm/core/func_noise.inl
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/mc309/test/glModern/spinnycube/source/main.mm170"CompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/main.o source/main.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler37fd11be232ab841^653955bf232ab841^---0#0#1#-19%DVTDocumentLocation2@59"file:///Users/mc309/test/glModern/spinnycube/source/main.mm0000000000000000^2974"CompileC build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/main.o source/main.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mc309/test/glModern/spinnycube    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -Wno-trigraphs -fpascal-strings -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -pedantic -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-generated-files.hmap -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-own-target-headers.hmap -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-all-target-headers.hmap -iquote /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/spinnycube-project-headers.hmap -I/Users/mc309/test/glModern/spinnycube/build/Debug/include -I/Users/mc309/test/glModern/spinnycube/../thirdparty/glfw/include -I/Users/mc309/test/glModern/spinnycube/../thirdparty/glm -I/Users/mc309/test/glModern/glew-1.10.0/include -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/DerivedSources/x86_64 -I/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/DerivedSources -Wall -F/Users/mc309/test/glModern/spinnycube/build/Debug -MMD -MT dependencies -MF /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/main.dia -c /Users/mc309/test/glModern/spinnycube/source/main.mm -o /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/main.o36"F61E373B-0A69-4D20-8887-CA20D9CB10EF-
+b242C8207-100F-4DAF-A1A6-9091FB48C95B
+
+CCpResource source/fragment-shader.txt build/Debug/spinnycube.app/Contents/Resources/fragment-shader.txt
+s405414847.546178
+e405414847.546866
+r1
+xCpResource
+xsource/fragment-shader.txt
+xbuild/Debug/spinnycube.app/Contents/Resources/fragment-shader.txt
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug/spinnycube.app/Contents/Resources/fragment-shader.txt103"CpResource source/fragment-shader.txt build/Debug/spinnycube.app/Contents/Resources/fragment-shader.txtfddd8bbf232ab841^c5018cbf232ab841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app/Contents/Resources/fragment-shader.txt003488b1ddffdf42^410"CpResource source/fragment-shader.txt build/Debug/spinnycube.app/Contents/Resources/fragment-shader.txt    cd /Users/mc309/test/glModern/spinnycube    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mc309/test/glModern/spinnycube/source/fragment-shader.txt /Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app/Contents/Resources36"FCB02A1E-1BD6-460A-8917-57B3A6B5A436-
+b242C8207-100F-4DAF-A1A6-9091FB48C95B
+
+CCpResource source/vertex-shader.txt build/Debug/spinnycube.app/Contents/Resources/vertex-shader.txt
+s405414847.546330
+e405414847.546956
+r1
+xCpResource
+xsource/vertex-shader.txt
+xbuild/Debug/spinnycube.app/Contents/Resources/vertex-shader.txt
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug/spinnycube.app/Contents/Resources/vertex-shader.txt99"CpResource source/vertex-shader.txt build/Debug/spinnycube.app/Contents/Resources/vertex-shader.txtc9e58bbf232ab841^f7058cbf232ab841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app/Contents/Resources/vertex-shader.txt003488b1ddffdf42^404"CpResource source/vertex-shader.txt build/Debug/spinnycube.app/Contents/Resources/vertex-shader.txt    cd /Users/mc309/test/glModern/spinnycube    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mc309/test/glModern/spinnycube/source/vertex-shader.txt /Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app/Contents/Resources36"85E09C4D-627D-4E85-BCF2-7EFAA5BFF73C-
+b242C8207-100F-4DAF-A1A6-9091FB48C95B
+
+CLd /Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app/Contents/MacOS/spinnycube normal x86_64
+s405414847.333831
+e405414847.545497
+r1
+xLd
+x/Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app/Contents/MacOS/spinnycube
+xnormal
+xx86_64
+d/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/spinnycube.LinkFileList
+d/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/main.o
+d/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Program.o
+d/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/glew.o
+d/Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/Shader.o
+d/Users/mc309/test/glModern/thirdparty/glfw/libglfw.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Link /Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app/Contents/MacOS/spinnycube69"Ld build/Debug/spinnycube.app/Contents/MacOS/spinnycube normal x86_64778255bf232ab841^11a78bbf232ab841^---0#0#1#--1186"Ld build/Debug/spinnycube.app/Contents/MacOS/spinnycube normal x86_64    cd /Users/mc309/test/glModern/spinnycube    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/mc309/test/glModern/spinnycube/build/Debug -L/Users/mc309/test/glModern/spinnycube/../thirdparty/glfw -L/Users/mc309/test/glModern/glew-1.10.0/lib -L/Users/mc309/test/glModern/glew-1.10.0/lib -L/Users/mc309/test/glModern/glew-1.10.0/lib -F/Users/mc309/test/glModern/spinnycube/build/Debug -filelist /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/spinnycube.LinkFileList -mmacosx-version-min=10.9 -fobjc-link-runtime -lglfw -framework Cocoa -framework IOKit -framework OpenGL -Xlinker -dependency_info -Xlinker /Users/mc309/test/glModern/spinnycube/build/spinnycube.build/Debug/spinnycube.build/Objects-normal/x86_64/spinnycube_dependency_info.dat -o /Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app/Contents/MacOS/spinnycube36"799E9B7A-7DCB-4F5D-932B-AE0932561C9E-
+b242C8207-100F-4DAF-A1A6-9091FB48C95B
+
+CTouch /Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app
+s405414847.547334
+e405414847.559922
+r1
+xTouch
+x/Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Touch /Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app32"Touch build/Debug/spinnycube.app35268cbf232ab841^04598fbf232ab841^---0#0#1#--165"Touch build/Debug/spinnycube.app    cd /Users/mc309/test/glModern/spinnycube    /usr/bin/touch -c /Users/mc309/test/glModern/spinnycube/build/Debug/spinnycube.app36"0ED5BC6C-8B77-4ADD-8523-D862C8B86AD5-
+b242C8207-100F-4DAF-A1A6-9091FB48C95B
+

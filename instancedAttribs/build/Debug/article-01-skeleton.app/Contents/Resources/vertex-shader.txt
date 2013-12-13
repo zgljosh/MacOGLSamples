@@ -1,0 +1,20 @@
+#version 150
+
+in vec3 vert;
+
+uniform float time;
+uniform mat4 ModelView;//, ProjectionMatrix;
+
+void main()
+{
+   vec4 v = vec4(vert, 1);
+   vec4 t = sin(time*5.0*v);
+   v.y = 0.1*t.x*t.z;
+   gl_Position=v;//gl_ModelViewProjectionMatrix * t;
+}
+//in vec3 vert;
+
+//void main() {
+    // does not alter the verticies at all
+//    gl_Position = vec4(vert, 1);
+//}

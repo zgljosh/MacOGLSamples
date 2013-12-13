@@ -1,0 +1,10 @@
+cee6d5ea9680020bf04eac60182f919b e9ac60de33ed11515ec810214586d621 ffffffffffffffffffffffffffffffff 102 /Users/mc309/test/glModern/texTri/build/Debug/texTri.app
+0000000052a801e7000000000000026b 50d933392a832bb0285c886295bd3ab9 ffffffffffffffffffffffffffffffff 619 /Users/mc309/test/glModern/texTri/build/Debug/texTri.app/Contents/Resources/vertex-shader.txt
+00000000527b8e680000000000000275 74e6f82a2a0aed14d4426e82347d54c2 ffffffffffffffffffffffffffffffff 629 /Users/mc309/test/glModern/texTri/build/Debug/texTri.app/Contents/Resources/frag-shader.txt
+00000000528e37d900000000003e1942 ead91ef9c4547cf90c504a80b9d1e6bc ffffffffffffffffffffffffffffffff 757084 /Users/mc309/test/glModern/texTri/build/Debug/texTri.app/Contents/MacOS/texTri
+00000000516ede820000000000000984 e74b3b16f2375eaeec462ae6d3f93e38 ffffffffffffffffffffffffffffffff 195192 /Users/mc309/test/glModern/texTri/build/texTri.build/Debug/texTri.build/Objects-normal/x86_64/Shader.o
+0000000051ec86ba00000000000e13ad 71206aa65b03312eb580e75836fe540f ffffffffffffffffffffffffffffffff 1141480 /Users/mc309/test/glModern/texTri/build/texTri.build/Debug/texTri.build/Objects-normal/x86_64/glew.o
+00000000516ede820000000000000e94 12bc6609ca5f965fcc9a591d04f8907d ffffffffffffffffffffffffffffffff 66408 /Users/mc309/test/glModern/texTri/build/texTri.build/Debug/texTri.build/Objects-normal/x86_64/Program.o
+0000000003ae638400000000000e5b40 2f6e13176b1ff73262ef60478739a221 ffffffffffffffffffffffffffffffff 159892 /Users/mc309/test/glModern/texTri/build/texTri.build/Debug/texTri.build/Objects-normal/x86_64/main.o
+00000000527b8e680000000000000275 db852b10edfe6d0343abb9c57831eada ffffffffffffffffffffffffffffffff 629 /Users/mc309/test/glModern/texTri/build/Debug/texTri.app/Contents/Resources/frag-shader-color-vary.txt
+000000005275fac60000000000000088 51e37132617a8d13f7087442a39bb276 ffffffffffffffffffffffffffffffff 136 /Users/mc309/test/glModern/texTri/build/Debug/texTri.app/Contents/Resources/fragment-shader.txt

@@ -1,0 +1,8 @@
+d536748a3439aecceca7eb51af916c32 20421c7ac73d719c3ab26077dff3cd8b ffffffffffffffffffffffffffffffff 102 /Users/mc309/test/glModern/singlepoint/build/Debug/singlepoint.app
+00000000527614280000000000000151 ffe2938d99791650e98bf2d6917e7455 ffffffffffffffffffffffffffffffff 337 /Users/mc309/test/glModern/singlepoint/build/Debug/singlepoint.app/Contents/Resources/vertex-shader.txt
+000000005275fac60000000000000088 7a0999124d048ee764478b84ba2769f6 ffffffffffffffffffffffffffffffff 136 /Users/mc309/test/glModern/singlepoint/build/Debug/singlepoint.app/Contents/Resources/fragment-shader.txt
+00000000524c6cdf00000000003e1942 50dd7e15b20bb44a616b920384f6690a ffffffffffffffffffffffffffffffff 755916 /Users/mc309/test/glModern/singlepoint/build/Debug/singlepoint.app/Contents/MacOS/singlepoint
+00000000516ede820000000000000984 8d6fadc62aea063f5ac9885a07309d97 ffffffffffffffffffffffffffffffff 195224 /Users/mc309/test/glModern/singlepoint/build/singlepoint.build/Debug/singlepoint.build/Objects-normal/x86_64/Shader.o
+0000000051ec86ba00000000000e13ad 9fcca19193ba14fd2d307d30fd51f4ca ffffffffffffffffffffffffffffffff 1141488 /Users/mc309/test/glModern/singlepoint/build/singlepoint.build/Debug/singlepoint.build/Objects-normal/x86_64/glew.o
+00000000516ede820000000000000e94 cc640088832f1b775472120b7ef361da ffffffffffffffffffffffffffffffff 66416 /Users/mc309/test/glModern/singlepoint/build/singlepoint.build/Debug/singlepoint.build/Objects-normal/x86_64/Program.o
+0000000003ae638400000000000e5b40 b7a38db2b688ca8b12c155a4bb0f3273 ffffffffffffffffffffffffffffffff 157700 /Users/mc309/test/glModern/singlepoint/build/singlepoint.build/Debug/singlepoint.build/Objects-normal/x86_64/main.o
