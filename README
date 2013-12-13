@@ -1,6 +1,11 @@
-Collections of OpenGL 4.1 code project running on MAC OS X mavericks.
+Already familiar with OpenGL 4+ theory and unable to run sample codes on your Mac?
+Here is a collection of OpenGL 4.1 code projects running on MAC OS X mavericks.
 
 For now, most of sample codes are based on OpenGL SuperBible 6th edition and I have tested it on my iMac.
+(Original codes only support VS2010 so I ported to Mac OS X)
 But I'll keep adding more projects showing interesting modern Open GL features on iMac. Purpose is to 
-make it easier to learn/practice OpenGL on iMac. See my blog on why creating this repo:
+make it easier to learn/practice OpenGL on Mac OS. See my blog on why creating this repo:
 http://zgljosh.blog.com/2013/12/13/opengl-4-1-programming-on-mac-os-x/
+
+Dependencies:
+glew, glfw
