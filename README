@@ -1,0 +1,6 @@
+Collections of OpenGL 4.1 code project running on MAC OS X mavericks.
+
+For now, most of sample codes are based on OpenGL SuperBible 6th edition and I have tested it on my iMac.
+But I'll keep adding more projects showing interesting modern Open GL features on iMac. Purpose is to 
+make it easier to learn/practice OpenGL on iMac. See my blog on why creating this repo:
+http://zgljosh.blog.com/2013/12/13/opengl-4-1-programming-on-mac-os-x/
